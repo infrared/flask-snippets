@@ -1,5 +1,5 @@
-sk-snippets
-Python Flask Code Snippets
+# flask-snippets
+Python [Flask](https://github.com/pallets/flask) code snippets
 
 ```bash
 git clone https://github.com/infrared/flask-snippets.git
